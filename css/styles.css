@@ -33,7 +33,7 @@ ul {
       color: burlywood;
   }
   .land{
-      background-image: url(/images/photo.jpeg);
+      background-image: url('https://bit.ly/3seVvF7');
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
