@@ -33,7 +33,7 @@ ul {
       color: burlywood;
   }
   .land{
-      background-image: url("/images/honey.jpeg");
+      background-image: url(/images/photo.jpeg);
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
